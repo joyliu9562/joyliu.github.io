@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: 还没想好
 
 # Name of the author
-author: Amit Merchant
+author: Joy Liu
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: 就是读了就想写，写了想有人看而已。
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -21,15 +21,15 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email:
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github:
   instagram:
   linkedin: 
   pinterest:
-  rss: rss
-  twitter: amit_merchant
+  rss:
+  twitter:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -78,7 +78,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 plugins:
